@@ -1,6 +1,7 @@
 # MarsRoverProject
 
 ==================================================================
+
 INTRODUCTION TO THE PROBLEM
 
 General Instructions:
@@ -8,6 +9,7 @@ General Instructions:
 This is a project intended to give you the opportunity to show off your design, problem solving and testing skills with a more challenging problem that will to take some time to complete, probably a few hours.  Your solution should be as complete and unit tested as possible to show off your higher-level skills, but if it's not entirely complete due to time constraints that is completely okay (although partial code with partial tests is better than complete code with no tests).  Even a partial submission is valuable for our conversations.  Write your tested code in any OO language, such as C#, Java, or Python.
 
 ==================================================================
+
 PROBLEM:  MARS ROVERS
 
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars.
