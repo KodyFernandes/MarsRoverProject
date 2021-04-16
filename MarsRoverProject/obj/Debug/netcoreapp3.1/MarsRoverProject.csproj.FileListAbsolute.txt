@@ -1,0 +1,12 @@
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/bin/Debug/netcoreapp3.1/MarsRoverProject.deps.json
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/bin/Debug/netcoreapp3.1/MarsRoverProject.runtimeconfig.json
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/bin/Debug/netcoreapp3.1/MarsRoverProject.runtimeconfig.dev.json
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/bin/Debug/netcoreapp3.1/MarsRoverProject.dll
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/bin/Debug/netcoreapp3.1/MarsRoverProject.pdb
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/obj/Debug/netcoreapp3.1/MarsRoverProject.csprojAssemblyReference.cache
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/obj/Debug/netcoreapp3.1/MarsRoverProject.AssemblyInfoInputs.cache
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/obj/Debug/netcoreapp3.1/MarsRoverProject.AssemblyInfo.cs
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/obj/Debug/netcoreapp3.1/MarsRoverProject.csproj.CoreCompileInputs.cache
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/obj/Debug/netcoreapp3.1/MarsRoverProject.dll
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/obj/Debug/netcoreapp3.1/MarsRoverProject.pdb
+/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/obj/Debug/netcoreapp3.1/MarsRoverProject.genruntimeconfig.cache
