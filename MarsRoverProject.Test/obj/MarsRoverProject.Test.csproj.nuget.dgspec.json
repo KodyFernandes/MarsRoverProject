@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject.Test/MarsRoverProject.Test.csproj": {}
+    "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject.Test/MarsRoverProject.Test.csproj": {}
   },
   "projects": {
-    "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject.Test/MarsRoverProject.Test.csproj": {
+    "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject.Test/MarsRoverProject.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject.Test/MarsRoverProject.Test.csproj",
+        "projectUniqueName": "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject.Test/MarsRoverProject.Test.csproj",
         "projectName": "MarsRoverProject.Test",
-        "projectPath": "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject.Test/MarsRoverProject.Test.csproj",
+        "projectPath": "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject.Test/MarsRoverProject.Test.csproj",
         "packagesPath": "/Users/kody.fernandes/.nuget/packages/",
-        "outputPath": "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject.Test/obj/",
+        "outputPath": "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject.Test/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -29,8 +29,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj": {
-                "projectPath": "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj"
+              "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj": {
+                "projectPath": "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj": {
+    "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj",
+        "projectUniqueName": "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj",
         "projectName": "MarsRoverProject",
-        "projectPath": "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj",
+        "projectPath": "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj",
         "packagesPath": "/Users/kody.fernandes/.nuget/packages/",
-        "outputPath": "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/obj/",
+        "outputPath": "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

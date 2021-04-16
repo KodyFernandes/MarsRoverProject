@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj",
+      "projectUniqueName": "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj",
       "projectName": "MarsRoverProject",
-      "projectPath": "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj",
+      "projectPath": "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject/MarsRoverProject.csproj",
       "packagesPath": "/Users/kody.fernandes/.nuget/packages/",
-      "outputPath": "/Users/kody.fernandes/Development/MarsRoverProject/MarsRoverProject/obj/",
+      "outputPath": "/Users/kody.fernandes/Development/Personal/MarsRoverProject/MarsRoverProject/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
